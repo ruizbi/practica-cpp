@@ -1,2 +1,1 @@
-# practica-cpp
-Programas varios en C++
+# Practicas varias en lenguaje C++
